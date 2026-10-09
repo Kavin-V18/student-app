@@ -1,0 +1,26 @@
+.student-card {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  color: blue;
+  font-size: 24px;
+}
+
+p {
+  color: #333333;
+  font-size: 16px;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
